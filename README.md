@@ -4,7 +4,7 @@
 </div>
 <br>
 <div > 
- <img height = "170" width="170" alt="kaio-octocat" src="https://user-images.githubusercontent.com/44037182/134766601-2d2a5dea-0abb-4a5f-a6cd-3a099e2da079.png")
+ <img height = "160" width="160" alt="kaio-octocat" src="https://user-images.githubusercontent.com/44037182/134766601-2d2a5dea-0abb-4a5f-a6cd-3a099e2da079.png")
   <a href="https://github.com/kaiotakuma">
   <img  height="150"  src="https://github-readme-stats.vercel.app/api?username=kaiotakuma&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiotakuma&layout=compact&langs_count=7&theme=highcontrast"/>
