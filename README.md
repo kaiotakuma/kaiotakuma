@@ -3,22 +3,14 @@
 
 </div>
 
-<div align = "center" height = "500px" width="500" > 
-<div align = "left" >
- <img height = "250px" width="250" alt="kaio-octocat" src="https://user-images.githubusercontent.com/44037182/134766601-2d2a5dea-0abb-4a5f-a6cd-3a099e2da079.png")
+<div > 
+ <img height = "300" width="300" alt="kaio-octocat" src="https://user-images.githubusercontent.com/44037182/134766601-2d2a5dea-0abb-4a5f-a6cd-3a099e2da079.png")
   <a href="https://github.com/kaiotakuma">
-</div>
- <div align = "right">
-  <img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=kaiotakuma&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiotakuma&layout=compact&langs_count=7&theme=highcontrast"/>
- </div>
-
-
+  <img  height="300" width="300" src="https://github-readme-stats.vercel.app/api?username=kaiotakuma&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="300" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiotakuma&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
- 
-
-<div style="display: inline_block"><br>
+ <div style="display: inline_block"><br>
    <h2  align="center" >Linguagens e Ferramentas  </h2>
   <div align="center" > 
   <img alt="kaio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
