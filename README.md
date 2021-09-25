@@ -2,9 +2,9 @@
  <img alt="capa" src="https://user-images.githubusercontent.com/44037182/134763347-7beda399-0ad6-486d-bf53-a08a88b81619.png">
 
 </div>
-
+<br>
 <div > 
- <img height = "150" width="150" alt="kaio-octocat" src="https://user-images.githubusercontent.com/44037182/134766601-2d2a5dea-0abb-4a5f-a6cd-3a099e2da079.png")
+ <img height = "180" width="180" alt="kaio-octocat" src="https://user-images.githubusercontent.com/44037182/134766601-2d2a5dea-0abb-4a5f-a6cd-3a099e2da079.png")
   <a href="https://github.com/kaiotakuma">
   <img  height="150"  src="https://github-readme-stats.vercel.app/api?username=kaiotakuma&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiotakuma&layout=compact&langs_count=7&theme=highcontrast"/>
